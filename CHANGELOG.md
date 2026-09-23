@@ -1,3 +1,13 @@
+## 7.3.1 (2026-09-23)
+
+### Bug Fixes
+
+- **plugin:** widen nx and @nx/devkit ranges to allow patched minimatch ([#699](https://github.com/ngxtension/ngxtension-platform/pull/699), [#706](https://github.com/ngxtension/ngxtension-platform/pull/706))
+
+### ❤️ Thank You
+
+- Enea Jahollari @eneajaho
+
 ## 7.3.0 (2026-08-04)
 
 ### Features
